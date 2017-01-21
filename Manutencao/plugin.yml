@@ -1,0 +1,6 @@
+name: Manutencao
+main: me.guigarciazinho.main.Main
+version: 1.0
+description: Ligar e desligar manutencao
+commands:
+  manu:
